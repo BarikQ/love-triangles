@@ -4,4 +4,8 @@
  */
 module.exports = function getLoveTrianglesCount(preferences = []) {
   // your implementation
+  var counter;
+  var trianglesCounter;
+  var N = preferences.length;
+
 };
